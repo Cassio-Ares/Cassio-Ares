@@ -14,3 +14,11 @@
     <img align='center' all='mysql' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' /> 
      <img align='center' all='mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' /> 
 </div>
+
+## 🚀 Linguagens Mais Utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cassio-Ares&layout=compact&theme=radical)
+
+## 🏆 Troféus
+
+![Troféus](https://github-profile-trophy.vercel.app/?username=Cassio-Ares&theme=radical)
